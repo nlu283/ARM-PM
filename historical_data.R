@@ -149,3 +149,4 @@ for (name in names) {
 current_asset <- "Sony"
 View(missing_rows_list[[current_asset]][, current_asset, drop = FALSE])
 
+thuy anh adds some code hier
